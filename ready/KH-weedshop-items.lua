@@ -1,174 +1,224 @@
+-- bags
 
--- Bags
-
-["KH_cakeMix"] = {
-    label = "cakeMix",
+["kh_cakemix"] = {
+    label = "cakemix",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_cerealMilk"] = {
-    label = "cerealMilk",
+    },
+    ["kh_cerealmilk"] = {
+    label = "cerealmilk",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_georgiaPie"] = {
-    label = "georgiaPie",
+    },
+    ["kh_georgiapie"] = {
+    label = "georgiapie",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_jefe"] = {
+    },
+    ["kh_jefe"] = {
     label = "jefe",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_snowMan"] = {
-    label = "snowMan",
+    },
+    ["kh_snowman"] = {
+    label = "snowman",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_whiteRuntz"] = {
-    label = "whiteRuntz",
+    },
+    ["kh_whiteruntz"] = {
+    label = "whiteruntz",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_whitecherryGelato"] = {
-    label = "whitecherryGelato",
+    },
+    ["kh_whitecherrygelato"] = {
+    label = "whitecherrygelato",
     weight = 1,
     stack = true,
     close = true,
-},
-["KH_blueberryCruffin"] = {
-    label = "blueberryCruffin",
+    },
+    ["kh_blueberrycruffin"] = {
+    label = "blueberrycruffin",
     weight = 1,
     stack = true,
     close = true,
-},
+    },
+    
+    -- joints
+    
+    ["joint_blueberrycruffin"] = {
+    label = "blueberrycruffin joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_cakemix"] = {
+    label = "cakemix joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_cerealmilk"] = {
+    label = "cerealmilk joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_georgiapie"] = {
+    label = "gerogiapie joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_jefe"] = {
+    label = "jefe joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_snowman"] = {
+    label = "snowman joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_whitecherrygelato"] = {
+    label = "whitecherrygelato joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["joint_whiteruntz"] = {
+    label = "whiteruntz joint",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    
+    -- papes
+    
+    ["backwoods_grape"] = {
+    label = "backwoods grape",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["backwoods_honey"] = {
+    label = "backwoods honey",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["backwoods_russian_cream"] = {
+    label = "backwoods russian cream",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    
+    -- seeds
+    
+    ["seed_cakemix"] = {
+    label = "cakemix seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_cerealmilk"] = {
+    label = "cerealmilk seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_georgiapie"] = {
+    label = "georgiapie seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_jefe"] = {
+    label = "jefe seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_snowman"] = {
+    label = "snowman seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_whiteruntz"] = {
+    label = "whiteruntz seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_whitecherrygelato"] = {
+    label = "whitecherrygelato seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
+    ["seed_blueberrycruffin"] = {
+    label = "blueberrycruffin seed",
+    weight = 1,
+    stack = true,
+    close = true,
+    },
 
--- Joints
+    -- buds
 
-["joint_blueberryCruffin"] = {
-    label = "BlueberryCruffin Joint",
+["bud_cakemix"] = {
+    label = "cakemix bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_cakeMix"] = {
-    label = "Cake Mix Joint",
+    },
+    ["bud_cerealmilk"] = {
+    label = "cerealmilk bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_cerealMilk"] = {
-    label = "Cereal Milk Joint",
+    },
+    ["bud_georgiapie"] = {
+    label = "georgiapie bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_georgiaPie"] = {
-    label = "Gerogia Pie Joint",
+    },
+    ["bud_jefe"] = {
+    label = "jefe bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_jefe"] = {
-    label = "Jefe Joint",
+    },
+    ["bud_snowman"] = {
+    label = "snowman bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_snowMan"] = {
-    label = "Snow Man Joint",
+    },
+    ["bud_whiteruntz"] = {
+    label = "whiteruntz bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_whitecherryGelato"] = {
-    label = "Whitecherry Gelato Joint",
+    },
+    ["bud_whitecherrygelato"] = {
+    label = "whitecherrygelato bud",
     weight = 1,
     stack = true,
     close = true,
-},
-["joint_whiteRuntz"] = {
-    label = "White Runtz Joint",
+    },
+    ["bud_blueberrycruffin"] = {
+    label = "blueberrycruffin bud",
     weight = 1,
     stack = true,
     close = true,
-},
-
--- Papes
-
-["backwoods_grape"] = {
-    label = "Backwoods Grape",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["backwoods_honey"] = {
-    label = "Backwoods Honey",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["backwoods_russian_cream"] = {
-    label = "Backwoods Russian Cream",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-
--- Seeds
-
-["seed_cakeMix"] = {
-    label = "cakeMix Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_cerealMilk"] = {
-    label = "cerealMilk Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_georgiaPie"] = {
-    label = "georgiaPie Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_jefe"] = {
-    label = "jefe Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_snowMan"] = {
-    label = "snowMan Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_whiteRuntz"] = {
-    label = "whiteRuntz Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_whitecherryGelato"] = {
-    label = "whitecherryGelato Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
-["seed_blueberryCruffin"] = {
-    label = "blueberryCruffin Seed",
-    weight = 1,
-    stack = true,
-    close = true,
-},
+    },
