@@ -2,49 +2,49 @@
 -- Bags
 
 ["KH_cakeMix"] = {
-    label = "Ak74",
+    label = "cakeMix",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_cerealMilk"] = {
-    label = "Ak74",
+    label = "cerealMilk",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_georgiaPie"] = {
-    label = "Ak74",
+    label = "georgiaPie",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_jefe"] = {
-    label = "Ak74",
+    label = "jefe",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_snowMan"] = {
-    label = "Ak74",
+    label = "snowMan",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_whiteRuntz"] = {
-    label = "Ak74",
+    label = "whiteRuntz",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_whitecherryGelato"] = {
-    label = "Ak74",
+    label = "whitecherryGelato",
     weight = 1,
     stack = true,
     close = true,
 },
 ["KH_blueberryCruffin"] = {
-    label = "Ak74",
+    label = "blueberryCruffin",
     weight = 1,
     stack = true,
     close = true,
@@ -53,49 +53,49 @@
 -- Joints
 
 ["joint_blueberryCruffin"] = {
-    label = "Ak74",
+    label = "BlueberryCruffin Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_cakeMix"] = {
-    label = "Ak74",
+    label = "Cake Mix Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_cerealMilk"] = {
-    label = "Ak74",
+    label = "Cereal Milk Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_georgiaPie"] = {
-    label = "Ak74",
+    label = "Gerogia Pie Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_jefe"] = {
-    label = "Ak74",
+    label = "Jefe Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_snowMan"] = {
-    label = "Ak74",
+    label = "Snow Man Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_whitecherryGelato"] = {
-    label = "Ak74",
+    label = "Whitecherry Gelato Joint",
     weight = 1,
     stack = true,
     close = true,
 },
 ["joint_whiteRuntz"] = {
-    label = "Ak74",
+    label = "White Runtz Joint",
     weight = 1,
     stack = true,
     close = true,
@@ -104,19 +104,70 @@
 -- Papes
 
 ["backwoods_grape"] = {
-    label = "Ak74",
+    label = "Backwoods Grape",
     weight = 1,
     stack = true,
     close = true,
 },
 ["backwoods_honey"] = {
-    label = "Ak74",
+    label = "Backwoods Honey",
     weight = 1,
     stack = true,
     close = true,
 },
 ["backwoods_russian_cream"] = {
-    label = "Ak74",
+    label = "Backwoods Russian Cream",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+
+-- Seeds
+
+["seed_cakeMix"] = {
+    label = "cakeMix Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_cerealMilk"] = {
+    label = "cerealMilk Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_georgiaPie"] = {
+    label = "georgiaPie Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_jefe"] = {
+    label = "jefe Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_snowMan"] = {
+    label = "snowMan Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_whiteRuntz"] = {
+    label = "whiteRuntz Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_whitecherryGelato"] = {
+    label = "whitecherryGelato Seed",
+    weight = 1,
+    stack = true,
+    close = true,
+},
+["seed_blueberryCruffin"] = {
+    label = "blueberryCruffin Seed",
     weight = 1,
     stack = true,
     close = true,
